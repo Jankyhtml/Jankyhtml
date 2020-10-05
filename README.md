@@ -2,6 +2,7 @@
 </p>
 <p align="center">
   <p align="center">
+  <img src="https://media.discordapp.net/attachments/732298693658542141/736232295467450368/fweak3.gif" alt="Avatar" style="border-radius: 75%;">
     Janky
     <br />
     Producer but I code in my free time
