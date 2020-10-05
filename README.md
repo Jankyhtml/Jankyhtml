@@ -2,8 +2,9 @@
 </p>
 <p align="center">
   <p align="center">
-  <img src="https://media.discordapp.net/attachments/732298693658542141/736232295467450368/fweak3.gif" alt="Avatar" style="border-radius: 75%;">
-    Janky
+  <img src="https://cdn.discordapp.com/attachments/762176053484978216/762815913783197706/81.gif" alt="Avatar" style="border-radius: 75%;">
+   <br />
+   Janky
     <br />
     Producer but I code in my free time
     <br />
