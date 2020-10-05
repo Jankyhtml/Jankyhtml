@@ -1,12 +1,22 @@
-𝐉𝐀𝐍𝐊𝐘 𝐉𝐀𝐍𝐊𝐘 𝐉𝐀𝐍𝐊𝐘 𝐉𝐀𝐍𝐊𝐘 
-
-𝖇𝖔𝖜 𝖇𝖔𝖜 𝖇𝖔𝖜 𝖇𝖔𝖜
-------------------------------------------                                           
-𝐇𝐞𝐥𝐥𝐨, 𝐢'𝐦 𝐉𝐚𝐧𝐤𝐲.
-------------------------------------------
-𝙋𝙧𝙤𝙙𝙪𝙘𝙚𝙧 𝙗𝙪𝙩 𝙄 𝙘𝙤𝙙𝙚 𝙞𝙣 𝙢𝙮 𝙛𝙧𝙚𝙚 𝙩𝙞𝙢𝙚 
-------------------------------------------
-𝗦𝗢𝗖𝗜𝗔𝗟𝗦
-------------------------------------------
-𝙔𝙤𝙪𝙩𝙪𝙗𝙚 : 𝙅𝙖𝙣𝙠𝙮  +  𝘿𝙞𝙨𝙘𝙤𝙧𝙙 : https://discord.gg/BdH5kct  +  𝙂𝙞𝙩𝙝𝙪𝙗 : 𝙅𝙖𝙣𝙠𝙮1337
-
+<p align="center"> 
+</p>
+<p align="center">
+  <p align="center">
+    Janky
+    <br />
+    Producer but I code in my free time
+    <br />
+    <br />
+    <a href="https://www.youtube.com/channel/UC5RALHI8pk4Z_X17sCDSYYg">youtube</a>
+    ·
+    <a href="https://discord.bio/p/Janky">discord</a>
+  </p>
+</p>
+<p align="center">  
+  <a href="https://steamcommunity.com/id/ayuo">
+    <img src="https://cdn.discordapp.com/attachments/747267505264918619/758715135581093948/unknown.png" alt="fax" width="276" height="70">
+  </a>
+  <br />
+  <br />
+    <img src="https://cdn.discordapp.com/attachments/747243323906981988/747267806361550868/unknown.png" alt="fax" width="256" height="77">
+</p>
