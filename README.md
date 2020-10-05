@@ -8,7 +8,6 @@
     <br />
     Producer but I code in my free time
     <br />
-    <br />
     <a href="https://www.youtube.com/channel/UC5RALHI8pk4Z_X17sCDSYYg">youtube</a>
     ·
     <a href="https://discord.bio/p/Janky">discord</a>
