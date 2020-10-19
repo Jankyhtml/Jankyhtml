@@ -15,7 +15,7 @@
 </p>
 <p align="center">  
   <a href="https://steamcommunity.com/id/ayuo">
-    <img src="https://cdn.discordapp.com/attachments/747243323906981988/762814990183825469/unknown.png" alt="fax" width="370" height="65">
+    <img src="https://cdn.discordapp.com/attachments/767093832323694642/767100296220114994/unknown.png" alt="fax" width="225" height="85">
   </a>
   <br />
     <img src="https://cdn.discordapp.com/attachments/747267505264918619/758715135581093948/unknown.png" alt="fax" width="369" height="147">
