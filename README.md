@@ -18,8 +18,8 @@
 </p>
 <p align="center">  
   <a href="https://steamcommunity.com/id/ayuo">
-    <img src="https://cdn.discordapp.com/attachments/743163056699211786/767605180442607648/unknown.png" alt="fax" width="225" height="85">
+    <img src="https://cdn.discordapp.com/attachments/738243069115105291/772873081944932352/unknown.png" height="92">
   </a>
   <br />
-    <img src="https://cdn.discordapp.com/attachments/761758578163449917/767605590268051487/unknown.png" alt="fax" width="343" height="137">
+    <img src="https://cdn.discordapp.com/attachments/738243069115105291/772873828111089684/unknown.png" alt="fax" width="285" height="77">
 </p>
