@@ -7,8 +7,8 @@
    𝐉𝐚𝐧𝐤𝐲
     <br />
    𝙖 𝙮𝙤𝙪𝙩𝙪𝙗𝙚𝙧 𝙬𝙝𝙤 𝙠𝙣𝙤𝙬𝙨 𝙖 𝙖𝙫𝙚𝙧𝙖𝙜𝙚 𝙖𝙢𝙢𝙤𝙪𝙣𝙩 𝙤𝙛 𝙥𝙮𝙩𝙝𝙤𝙣 
-    𝙩𝙝𝙖𝙩 𝙞𝙨 𝙢𝙖𝙞𝙣𝙞𝙣𝙜 𝙨𝙩𝙖𝙩𝙞𝙘 𝙬𝙚𝙗𝙨𝙞𝙩𝙚 𝙙𝙚𝙨𝙞𝙜𝙣𝙞𝙣𝙜
     <br />
+    <br />𝙩𝙝𝙖𝙩 𝙞𝙨 𝙢𝙖𝙞𝙣𝙞𝙣𝙜 𝙨𝙩𝙖𝙩𝙞𝙘 𝙬𝙚𝙗𝙨𝙞𝙩𝙚 𝙙𝙚𝙨𝙞𝙜𝙣𝙞𝙣𝙜<br />
     <a href="https://www.youtube.com/channel/UC5RALHI8pk4Z_X17sCDSYYg">𝚈𝚘𝚞𝚝𝚞𝚋𝚎</a>
     ·
     <a href="https://discord.bio/p/Janky">𝙳𝚒𝚜𝚌𝚘𝚛𝚍</a>
