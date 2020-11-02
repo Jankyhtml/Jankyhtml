@@ -11,7 +11,7 @@
     <br />
     <br />𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙢𝙖𝙞𝙣𝙞𝙣𝙜 𝙨𝙩𝙖𝙩𝙞𝙘 𝙬𝙚𝙗𝙨𝙞𝙩𝙚 𝙙𝙚𝙨𝙞𝙜𝙣<br />
     <br />
-    <a href="https://www.youtube.com/channel/UC5RALHI8pk4Z_X17sCDSYYg">𝚈𝚘𝚞𝚝𝚞𝚋𝚎</a>
+    <a href="https://www.youtube.com/channel/UCvMCVrA7BVoYTk-Pq_UzG_Q?view_as=subscriber">𝚈𝚘𝚞𝚝𝚞𝚋𝚎</a>
     ·
     <a href="https://discord.bio/p/Janky">𝙳𝚒𝚜𝚌𝚘𝚛𝚍</a>
   </p>
