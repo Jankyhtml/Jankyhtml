@@ -2,7 +2,7 @@
 </p>
 <p align="center">
   <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/762176053484978216/762815913783197706/81.gif" alt="Avatar" style="border-radius: 75%;">
+  <img src="https://cdn.discordapp.com/attachments/738243069115105291/772872207733882880/38.gif" alt="Avatar" style="border-radius: 75%;">
    <br />
    𝐉𝐚𝐧𝐤𝐲
     <br />
