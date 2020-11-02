@@ -1,22 +1,96 @@
-<p align="center"> 
-</p>
-<p align="center">
-  <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/762176053484978216/762815913783197706/81.gif" alt="Avatar" style="border-radius: 75%;">
-   <br />
-   Janky
-    <br />
-    Producer but I code in my free time
-    <br />
-    <a href="https://www.youtube.com/channel/UC5RALHI8pk4Z_X17sCDSYYg">youtube</a>
-    ·
-    <a href="https://discord.bio/p/Janky">discord</a>
-  </p>
-</p>
-<p align="center">  
-  <a href="https://steamcommunity.com/id/ayuo">
-    <img src="https://cdn.discordapp.com/attachments/743163056699211786/767605180442607648/unknown.png" alt="fax" width="225" height="85">
-  </a>
-  <br />
-    <img src="https://cdn.discordapp.com/attachments/761758578163449917/767605590268051487/unknown.png" alt="fax" width="343" height="137">
-</p>
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Summrs</title>
+
+        <style type="text/css">
+        
+            * {
+                margin: 0;
+                padding: 0;
+            }
+        
+            body {
+                font-family: Calibri, sans-serif;
+            }
+            
+            .background-wrap {
+                position: fixed;
+                z-index: -1000;
+                width: 100%;
+                height: 100%;
+                overflow: hidden;
+                top: 0;
+                left: 0;
+            }
+
+            #video-bg-elem {
+                position: absolute;
+                top: 0;
+                left: 0;
+                min-height: 100%;
+                min-width: 100%;
+            }
+
+            .content {
+                position: absolute;
+                width: 100%;
+                min-height: 100%;
+                z-index: 1000%;
+                background-color: rgba(0, 0, 0, 0, 7)
+            }
+            .content h1 {
+                font-size: 100px;
+                text-align: center;
+                font: 65px;
+                text-transform: uppercase;
+                font-weight: 300;
+                color:#bc13fe;
+                padding-top: 15%;
+                margin-bottom: 10px;
+            }
+            .content p {
+                text-align: center;
+                font-size: 30px;
+                letter-spacing: 3px;
+                color:red;
+            }
+
+
+        
+        
+        </style>
+    
+
+    </head>
+    <body>
+
+            <div class="background-wrap">
+
+                <video id="video-bg-elem" preload="auto" autoplay="true" loop="loop" muted="muted">
+                        <source src="video.mp4" type="video/mp4">
+                        Video Not Supported
+                </video>
+
+            </div>
+
+
+
+
+            <div class="content">
+
+                <h1>Summrs</h1>
+                <p>Discord Anti Nuke</p>
+                <p>Made By Skids</p>
+
+            </div>
+
+
+
+
+
+
+
+
+    </body>
+</html>
